@@ -1,5 +1,6 @@
 [package]
 name = "shiba"
+description = "A git hook installer for Cargo"
 version = "0.1.0"
 authors = ["Stephan Wolski"]
 repository = "https://github.com/Slowki/shiba"
