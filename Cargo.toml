@@ -1,0 +1,8 @@
+[package]
+name = "shiba"
+version = "0.1.0"
+authors = ["Stephan Wolski"]
+repository = "https://github.com/Slowki/shiba"
+license = "MIT"
+
+build = "create-hooks.rs"
